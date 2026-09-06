@@ -1,0 +1,33 @@
+[submodule "neo-nexus"]
+	path = neo-nexus
+	url = https://github.com/r3e-network/neo-nexus.git
+[submodule "neo-os-services"]
+	path = neo-os-services
+	url = https://github.com/r3e-network/neo-os-services.git
+[submodule "neo-os-admin"]
+	path = neo-os-admin
+	url = https://github.com/r3e-network/neo-os-admin.git
+[submodule "neo-os-web"]
+	path = neo-os-web
+	url = https://github.com/r3e-network/neo-os-web.git
+[submodule "neo-os-explorer"]
+	path = neo-os-explorer
+	url = https://github.com/r3e-network/neo-os-explorer.git
+[submodule "neo-os-fura"]
+	path = neo-os-fura
+	url = https://github.com/r3e-network/neo-os-fura.git
+[submodule "neo-os-miniapps"]
+	path = neo-os-miniapps
+	url = https://github.com/r3e-network/neo-os-miniapps.git
+[submodule "neo-os-app"]
+	path = neo-os-app
+	url = https://github.com/r3e-network/neo-os-app.git
+[submodule "neo-os-minigames"]
+	path = neo-os-minigames
+	url = https://github.com/r3e-network/neo-os-minigames.git
+[submodule "neo-os-contracts"]
+	path = neo-os-contracts
+	url = https://github.com/r3e-network/neo-os-contracts.git
+[submodule "neo-os-devpack"]
+	path = neo-os-devpack
+	url = https://github.com/r3e-network/neo-os-devpack.git
