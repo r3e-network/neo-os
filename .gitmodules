@@ -31,3 +31,9 @@
 [submodule "neo-os-devpack"]
 	path = neo-os-devpack
 	url = https://github.com/r3e-network/neo-os-devpack.git
+[submodule "neo-os-gateway"]
+	path = neo-os-gateway
+	url = https://github.com/r3e-network/neo-os-gateway.git
+[submodule "neo-os-sdk"]
+	path = neo-os-sdk
+	url = https://github.com/r3e-network/neo-os-sdk.git
